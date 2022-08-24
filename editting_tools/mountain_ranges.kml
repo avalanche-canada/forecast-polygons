@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>mountain_ranges.kml</name>
+	<Style id="s_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>mountain_ranges</name>
+		<open>1</open>
+		<Placemark>
+			<name>Coast</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-125.9371579749067,47.79856663339217,0 -125.6757300092925,44.22036956618398,0 -119.3978476366341,44.54412426811175,0 -119.2898791556728,48.3547460174837,0 -122.7399202545925,53.82572286103421,0 -126.4711299711641,58.26260133402538,0 -128.1229480077426,60.15169190807265,0 -130.8707494104182,60.97601886062657,0 -134.0324293925112,60.98118220529662,0 -140.7772731514461,62.57002445212621,0 -140.8637019743165,58.95918035085285,0 -125.9371579749067,47.79856663339217,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Columbias</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.4294280217968,48.86607317897629,0 -119.1719616129505,48.33540474705192,0 -119.0930308006654,45.1030918188528,0 -113.8680209016947,45.33461635662552,0 -114.1992514370725,48.21042187217148,0 -115.0594797661199,49.03039601138272,0 -115.6611742182158,49.6206448655393,0 -116.077445787541,50.7142124625454,0 -117.3083550434051,51.5551804255063,0 -119.4043082308702,52.96253460894966,0 -121.7036100964222,53.91396247718221,0 -122.5592776726992,53.81198958972131,0 -119.4294280217968,48.86607317897629,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Rockies</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-122.6340897135192,53.81764557152388,0 -121.7246848780667,53.92255590950575,0 -119.2797497724408,52.9571324706962,0 -116.0167858435028,50.70032925058004,0 -115.6816113620762,49.65129512885944,0 -115.0304296633543,48.9896129752718,0 -113.1672211036818,48.94319730454453,0 -122.5266499788158,59.99169102555951,0 -127.926927574154,60.13978433590335,0 -122.6340897135192,53.81764557152388,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>East Coast</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-53.75477882067585,46.49233196405132,0 -61.7525642461674,74.03606101934854,0 -89.3144816601213,73.18589599692582,0 -68.46342831197447,47.15729223411534,0 -53.75477882067585,46.49233196405132,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
