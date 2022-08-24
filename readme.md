@@ -17,7 +17,7 @@ This repository stores the geospatial definitions for subregions used in Canadia
 - `creation_date`: YYYY-mm-dd
 - `last_updated`: YYYY-mm-dd
 
-Note: shapefiles field names are truncated to ten characters and kml files use polygon_name as the Name attribute
+Note: shapefile field names are truncated to ten characters and kml files use polygon_name as the Name attribute
 
 ## Editting instructions
 
