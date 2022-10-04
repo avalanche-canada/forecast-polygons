@@ -16,6 +16,7 @@ This repository stores the geospatial definitions for subregions used in Canadia
 - `agency_name`: avalanche_canada, avalanche_quebec, kananaskis, parks_canada_byk, parks_canada_glacier, parks_canada_jasper, parks_canada_waterton
 - `creation_date`: YYYY-mm-dd
 - `last_updated`: YYYY-mm-dd
+- `centroid`: [lon, lat]
 
 Note: shapefile field names are truncated to ten characters and kml files use polygon_name as the Name attribute
 

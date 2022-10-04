@@ -6,7 +6,7 @@ library(uuid)
 library(geojsonio)
 
 ## Read geojson file
-subregion_dir <- 'H:/My Drive/snowmodels/subregions'
+subregion_dir <- 'H:/My Drive/snowmodels/dev/forecast-polygons/'
 fx <- geojson_read(file.path(subregion_dir, 'canadian_subregions.geojson'), parse = T, what = 'sp')
 
 ## id
@@ -44,10 +44,14 @@ fx$agency_name[fx$polygon_name %in% c('Bighorn', 'Ghost')] <- 'kananaskis'
 fx$agency_name[fx$reference_region == 'Chic-Chocs'] <- 'avalanche_quebec'
 sort(table(fx$agency_name))
 
+## centroids
+centroid <- gCentroid(fx, byid = T)
+fx$centroid <- paste0('[', centroid@coords[,1], ', ', centroid@coords[,2], ']')
+
 ## Order rows and columns
 fx <- fx[order(fx$agency_name, fx$reference_region, fx$polygon_name),]
 fx$polygon_number <- 1:nrow(fx)
-fx <- fx[,c('id', 'polygon_name', 'polygon_number', 'mountain_range', 'reference_region', 'agency_name', 'creation_date', 'last_updated')]
+fx <- fx[,c('id', 'polygon_name', 'polygon_number', 'mountain_range', 'reference_region', 'agency_name', 'creation_date', 'last_updated', 'centroid')]
 
 ## View results
 head(fx)
