@@ -20,7 +20,7 @@
 		<SimpleData name="id">8D7ECE91-62FB-4455-B9E6-9F813C74E346</SimpleData>
 		<SimpleData name="polygon_name">Brazeau</SimpleData>
 		<SimpleData name="polygon_number">110</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Jasper</SimpleData>
 		<SimpleData name="agency_name">parks_canada_jasper</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -36,7 +36,7 @@
 		<SimpleData name="id">F7005E34-004F-4818-A68E-AA866121E27D</SimpleData>
 		<SimpleData name="polygon_name">Churchill</SimpleData>
 		<SimpleData name="polygon_number">111</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Jasper</SimpleData>
 		<SimpleData name="agency_name">parks_canada_jasper</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -52,7 +52,7 @@
 		<SimpleData name="id">2CB9FDD5-CF58-4F22-BD7C-11B8210DB3D3</SimpleData>
 		<SimpleData name="polygon_name">Cirrus-Wilson</SimpleData>
 		<SimpleData name="polygon_number">112</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Jasper</SimpleData>
 		<SimpleData name="agency_name">parks_canada_jasper</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -68,7 +68,7 @@
 		<SimpleData name="id">F4399FD9-0DFC-4E0F-8C37-6C590FDA9873</SimpleData>
 		<SimpleData name="polygon_name">Fryatt</SimpleData>
 		<SimpleData name="polygon_number">113</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Jasper</SimpleData>
 		<SimpleData name="agency_name">parks_canada_jasper</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -84,7 +84,7 @@
 		<SimpleData name="id">FE6B5DE8-5C0B-46AD-AFEB-640A5FC85FAF</SimpleData>
 		<SimpleData name="polygon_name">Icefields</SimpleData>
 		<SimpleData name="polygon_number">114</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Jasper</SimpleData>
 		<SimpleData name="agency_name">parks_canada_jasper</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -100,7 +100,7 @@
 		<SimpleData name="id">A348DBC4-F2D7-45BE-A59E-8F8585F9F647</SimpleData>
 		<SimpleData name="polygon_name">Maligne</SimpleData>
 		<SimpleData name="polygon_number">115</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Jasper</SimpleData>
 		<SimpleData name="agency_name">parks_canada_jasper</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -116,7 +116,7 @@
 		<SimpleData name="id">43172D1A-39AE-46BD-9189-1EA772887E51</SimpleData>
 		<SimpleData name="polygon_name">Marmot</SimpleData>
 		<SimpleData name="polygon_number">116</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Jasper</SimpleData>
 		<SimpleData name="agency_name">parks_canada_jasper</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -132,7 +132,7 @@
 		<SimpleData name="id">F098C21A-368D-48FC-804C-9DE3AC49AF16</SimpleData>
 		<SimpleData name="polygon_name">Miette Lake</SimpleData>
 		<SimpleData name="polygon_number">117</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Jasper</SimpleData>
 		<SimpleData name="agency_name">parks_canada_jasper</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -148,7 +148,7 @@
 		<SimpleData name="id">76F1935D-54A6-4A53-A690-A9DDE69FA067</SimpleData>
 		<SimpleData name="polygon_name">Pyramid</SimpleData>
 		<SimpleData name="polygon_number">118</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Jasper</SimpleData>
 		<SimpleData name="agency_name">parks_canada_jasper</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>

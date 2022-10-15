@@ -20,7 +20,7 @@
 		<SimpleData name="id">1A35A20C-BFC0-4294-9B84-6442ADBE512B</SimpleData>
 		<SimpleData name="polygon_name">Banff</SimpleData>
 		<SimpleData name="polygon_number">100</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Banff Yoho Kootenay</SimpleData>
 		<SimpleData name="agency_name">parks_canada_byk</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -36,7 +36,7 @@
 		<SimpleData name="id">7D6DC1A4-88CD-4C32-AA8A-EA036BB9CFBD</SimpleData>
 		<SimpleData name="polygon_name">East Side 93N</SimpleData>
 		<SimpleData name="polygon_number">101</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Banff Yoho Kootenay</SimpleData>
 		<SimpleData name="agency_name">parks_canada_byk</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -52,7 +52,7 @@
 		<SimpleData name="id">56682A53-0A2D-412F-986C-9C1AC62FA26D</SimpleData>
 		<SimpleData name="polygon_name">Kootenay</SimpleData>
 		<SimpleData name="polygon_number">102</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Banff Yoho Kootenay</SimpleData>
 		<SimpleData name="agency_name">parks_canada_byk</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -68,7 +68,7 @@
 		<SimpleData name="id">8C90DACE-FCE9-46D0-8F4C-9A75949E21E6</SimpleData>
 		<SimpleData name="polygon_name">Lake Louise</SimpleData>
 		<SimpleData name="polygon_number">103</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Banff Yoho Kootenay</SimpleData>
 		<SimpleData name="agency_name">parks_canada_byk</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -84,7 +84,7 @@
 		<SimpleData name="id">80172295-4247-4487-B0CA-C343B10FD2DB</SimpleData>
 		<SimpleData name="polygon_name">LLSA</SimpleData>
 		<SimpleData name="polygon_number">104</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Banff Yoho Kootenay</SimpleData>
 		<SimpleData name="agency_name">parks_canada_byk</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -100,7 +100,7 @@
 		<SimpleData name="id">ACCBA7D2-2877-401B-ABD1-35DA313C7EFA</SimpleData>
 		<SimpleData name="polygon_name">Sunshine</SimpleData>
 		<SimpleData name="polygon_number">105</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Banff Yoho Kootenay</SimpleData>
 		<SimpleData name="agency_name">parks_canada_byk</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -116,7 +116,7 @@
 		<SimpleData name="id">3AE5E231-4248-4FE0-963A-F0C493990E41</SimpleData>
 		<SimpleData name="polygon_name">West Side 93N</SimpleData>
 		<SimpleData name="polygon_number">106</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Banff Yoho Kootenay</SimpleData>
 		<SimpleData name="agency_name">parks_canada_byk</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -132,7 +132,7 @@
 		<SimpleData name="id">5D2FF3F4-0E6E-4AB8-9287-7BF0411C7218</SimpleData>
 		<SimpleData name="polygon_name">Field</SimpleData>
 		<SimpleData name="polygon_number">107</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Little Yoho</SimpleData>
 		<SimpleData name="agency_name">parks_canada_byk</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -148,7 +148,7 @@
 		<SimpleData name="id">DA4C874B-8F7C-45A6-AEB1-1396B78FE2EC</SimpleData>
 		<SimpleData name="polygon_name">Little Yoho</SimpleData>
 		<SimpleData name="polygon_number">108</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Little Yoho</SimpleData>
 		<SimpleData name="agency_name">parks_canada_byk</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>

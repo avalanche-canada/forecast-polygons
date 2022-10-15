@@ -20,7 +20,7 @@
 		<SimpleData name="id">9C8757D5-A4F5-4373-A084-92F40DB19C6E</SimpleData>
 		<SimpleData name="polygon_name">Blue River</SimpleData>
 		<SimpleData name="polygon_number">1</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Cariboos</SimpleData>
 		<SimpleData name="reference_region">Cariboos</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -36,7 +36,7 @@
 		<SimpleData name="id">8F87BCF7-EC9F-4EAD-8551-84364AC88728</SimpleData>
 		<SimpleData name="polygon_name">Clearwater</SimpleData>
 		<SimpleData name="polygon_number">2</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Cariboos</SimpleData>
 		<SimpleData name="reference_region">Cariboos</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -52,7 +52,7 @@
 		<SimpleData name="id">FA041512-B7D0-4DB3-8AD4-678E54583AEA</SimpleData>
 		<SimpleData name="polygon_name">McBride</SimpleData>
 		<SimpleData name="polygon_number">3</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Cariboos</SimpleData>
 		<SimpleData name="reference_region">Cariboos</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -68,7 +68,7 @@
 		<SimpleData name="id">2805F4EC-88BA-4B28-87D0-14E12154F3B6</SimpleData>
 		<SimpleData name="polygon_name">Premier</SimpleData>
 		<SimpleData name="polygon_number">4</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Cariboos</SimpleData>
 		<SimpleData name="reference_region">Cariboos</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -84,7 +84,7 @@
 		<SimpleData name="id">F40AE9D0-5346-44F6-AE98-E720CFF15F03</SimpleData>
 		<SimpleData name="polygon_name">Quesnel</SimpleData>
 		<SimpleData name="polygon_number">5</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Cariboos</SimpleData>
 		<SimpleData name="reference_region">Cariboos</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -100,7 +100,7 @@
 		<SimpleData name="id">34D72B27-4A63-4E4D-894B-1547AABA93E4</SimpleData>
 		<SimpleData name="polygon_name">Sugarbowl</SimpleData>
 		<SimpleData name="polygon_number">6</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Cariboos</SimpleData>
 		<SimpleData name="reference_region">Cariboos</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -116,7 +116,7 @@
 		<SimpleData name="id">44806EE3-7F2A-4D0F-B464-5B69377003D5</SimpleData>
 		<SimpleData name="polygon_name">Bonnington</SimpleData>
 		<SimpleData name="polygon_number">7</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Selkirks</SimpleData>
 		<SimpleData name="reference_region">Kootenay Boundary</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -132,7 +132,7 @@
 		<SimpleData name="id">776E21B9-230F-4B56-BF8B-6276964C0E35</SimpleData>
 		<SimpleData name="polygon_name">Grohman</SimpleData>
 		<SimpleData name="polygon_number">8</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Selkirks</SimpleData>
 		<SimpleData name="reference_region">Kootenay Boundary</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -148,7 +148,7 @@
 		<SimpleData name="id">7A9ABA93-BA7F-49C1-9F6F-78146942C899</SimpleData>
 		<SimpleData name="polygon_name">Kootenay Pass</SimpleData>
 		<SimpleData name="polygon_number">9</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Selkirks</SimpleData>
 		<SimpleData name="reference_region">Kootenay Boundary</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -164,7 +164,7 @@
 		<SimpleData name="id">E06F5748-2094-47BC-A79C-B05EBACF3463</SimpleData>
 		<SimpleData name="polygon_name">Norns</SimpleData>
 		<SimpleData name="polygon_number">10</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Selkirks</SimpleData>
 		<SimpleData name="reference_region">Kootenay Boundary</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -180,7 +180,7 @@
 		<SimpleData name="id">CCD877B1-3653-40BC-8D48-CA65C39F0D7A</SimpleData>
 		<SimpleData name="polygon_name">Rossland</SimpleData>
 		<SimpleData name="polygon_number">11</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Monashees</SimpleData>
 		<SimpleData name="reference_region">Kootenay Boundary</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -196,7 +196,7 @@
 		<SimpleData name="id">43145651-C7B3-4118-85C4-AF0214A8CDAA</SimpleData>
 		<SimpleData name="polygon_name">South Okanagan</SimpleData>
 		<SimpleData name="polygon_number">12</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Monashees</SimpleData>
 		<SimpleData name="reference_region">Kootenay Boundary</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -212,7 +212,7 @@
 		<SimpleData name="id">43384295-D3D9-4457-B8BE-AFDD58C4ECF9</SimpleData>
 		<SimpleData name="polygon_name">Ymir</SimpleData>
 		<SimpleData name="polygon_number">13</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Selkirks</SimpleData>
 		<SimpleData name="reference_region">Kootenay Boundary</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -228,7 +228,7 @@
 		<SimpleData name="id">5B044AB1-5778-4EE3-AD67-5CBD6EE4F7D4</SimpleData>
 		<SimpleData name="polygon_name">Akamina</SimpleData>
 		<SimpleData name="polygon_number">14</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">South Rockies</SimpleData>
 		<SimpleData name="reference_region">Lizard-Flathead</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -244,7 +244,7 @@
 		<SimpleData name="id">9F3E17A1-6CCD-4469-A369-74E07D9DF34F</SimpleData>
 		<SimpleData name="polygon_name">Flathead</SimpleData>
 		<SimpleData name="polygon_number">15</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">South Rockies</SimpleData>
 		<SimpleData name="reference_region">Lizard-Flathead</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -260,7 +260,7 @@
 		<SimpleData name="id">0C78233A-355B-444C-AA46-643196FDB6FF</SimpleData>
 		<SimpleData name="polygon_name">Lizard</SimpleData>
 		<SimpleData name="polygon_number">16</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">South Rockies</SimpleData>
 		<SimpleData name="reference_region">Lizard-Flathead</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -324,7 +324,7 @@
 		<SimpleData name="id">F1186582-A58B-47FC-B3F5-772432A44B7E</SimpleData>
 		<SimpleData name="polygon_name">Clemina</SimpleData>
 		<SimpleData name="polygon_number">20</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Monashees</SimpleData>
 		<SimpleData name="reference_region">North Columbia</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -340,7 +340,7 @@
 		<SimpleData name="id">4D963178-DEA2-4305-BEAB-80E8B8F23604</SimpleData>
 		<SimpleData name="polygon_name">Esplanade</SimpleData>
 		<SimpleData name="polygon_number">21</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Selkirks</SimpleData>
 		<SimpleData name="reference_region">North Columbia</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -356,7 +356,7 @@
 		<SimpleData name="id">5A08EE97-3C17-40A5-AC45-86057DFAC505</SimpleData>
 		<SimpleData name="polygon_name">Jordan</SimpleData>
 		<SimpleData name="polygon_number">22</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Monashees</SimpleData>
 		<SimpleData name="reference_region">North Columbia</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -372,7 +372,7 @@
 		<SimpleData name="id">B717AF76-6A7C-406B-B870-7F0FD94FB382</SimpleData>
 		<SimpleData name="polygon_name">North Monashee</SimpleData>
 		<SimpleData name="polygon_number">23</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Monashees</SimpleData>
 		<SimpleData name="reference_region">North Columbia</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -388,7 +388,7 @@
 		<SimpleData name="id">45E880C0-850D-4727-B272-0259286200F0</SimpleData>
 		<SimpleData name="polygon_name">North Selkirk</SimpleData>
 		<SimpleData name="polygon_number">24</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Selkirks</SimpleData>
 		<SimpleData name="reference_region">North Columbia</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -404,7 +404,7 @@
 		<SimpleData name="id">3755143B-F552-4181-9EED-3703B5A70116</SimpleData>
 		<SimpleData name="polygon_name">Shuswap</SimpleData>
 		<SimpleData name="polygon_number">25</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Monashees</SimpleData>
 		<SimpleData name="reference_region">North Columbia</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -420,7 +420,7 @@
 		<SimpleData name="id">B4DE20B1-AFC5-4448-A0BA-42861DFE0042</SimpleData>
 		<SimpleData name="polygon_name">Kakwa</SimpleData>
 		<SimpleData name="polygon_number">26</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">North Rockies</SimpleData>
 		<SimpleData name="reference_region">North Rockies</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -436,7 +436,7 @@
 		<SimpleData name="id">AB8CF4EC-0FC8-4F3D-B48A-731DFC9F0076</SimpleData>
 		<SimpleData name="polygon_name">McGregor</SimpleData>
 		<SimpleData name="polygon_number">27</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">North Rockies</SimpleData>
 		<SimpleData name="reference_region">North Rockies</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -452,7 +452,7 @@
 		<SimpleData name="id">756B1981-3201-47B3-AA62-43A1E5B369F3</SimpleData>
 		<SimpleData name="polygon_name">Pine Pass</SimpleData>
 		<SimpleData name="polygon_number">28</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">North Rockies</SimpleData>
 		<SimpleData name="reference_region">North Rockies</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -468,7 +468,7 @@
 		<SimpleData name="id">29C957BC-9617-49E4-94C8-E7DA290B6E13</SimpleData>
 		<SimpleData name="polygon_name">Renshaw</SimpleData>
 		<SimpleData name="polygon_number">29</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">North Rockies</SimpleData>
 		<SimpleData name="reference_region">North Rockies</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -484,7 +484,7 @@
 		<SimpleData name="id">2177E6E8-952D-4648-B77E-4866E9C44241</SimpleData>
 		<SimpleData name="polygon_name">Robson</SimpleData>
 		<SimpleData name="polygon_number">30</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">North Rockies</SimpleData>
 		<SimpleData name="reference_region">North Rockies</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -500,7 +500,7 @@
 		<SimpleData name="id">458F2AE7-EEAB-4CCD-BB29-4C8338FE878C</SimpleData>
 		<SimpleData name="polygon_name">Tumbler</SimpleData>
 		<SimpleData name="polygon_number">31</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">North Rockies</SimpleData>
 		<SimpleData name="reference_region">North Rockies</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -516,7 +516,7 @@
 		<SimpleData name="id">D1A24439-6BF8-4CCE-8391-4CEFEEBB35AC</SimpleData>
 		<SimpleData name="polygon_name">Kitimat</SimpleData>
 		<SimpleData name="polygon_number">32</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">North Coast</SimpleData>
 		<SimpleData name="reference_region">Northwest Coastal</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -532,7 +532,7 @@
 		<SimpleData name="id">A5990486-443B-4A97-9381-2B8D8BBB0AA4</SimpleData>
 		<SimpleData name="polygon_name">Nass</SimpleData>
 		<SimpleData name="polygon_number">33</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">North Coast</SimpleData>
 		<SimpleData name="reference_region">Northwest Coastal</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -548,7 +548,7 @@
 		<SimpleData name="id">20BF3C0D-37E6-4A85-BF18-4FB48E574416</SimpleData>
 		<SimpleData name="polygon_name">Rupert</SimpleData>
 		<SimpleData name="polygon_number">34</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">North Coast</SimpleData>
 		<SimpleData name="reference_region">Northwest Coastal</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -564,7 +564,7 @@
 		<SimpleData name="id">03E0E608-ECC2-41FB-B7AC-D59B346D7AFF</SimpleData>
 		<SimpleData name="polygon_name">Seven Sisters</SimpleData>
 		<SimpleData name="polygon_number">35</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">North Coast</SimpleData>
 		<SimpleData name="reference_region">Northwest Coastal</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -580,7 +580,7 @@
 		<SimpleData name="id">8DB30828-3120-4FD0-9C11-07327A672C6C</SimpleData>
 		<SimpleData name="polygon_name">Shames</SimpleData>
 		<SimpleData name="polygon_number">36</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">North Coast</SimpleData>
 		<SimpleData name="reference_region">Northwest Coastal</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -596,7 +596,7 @@
 		<SimpleData name="id">943DD4DD-89B0-4E52-9064-6FE58DEBFD88</SimpleData>
 		<SimpleData name="polygon_name">Stewart</SimpleData>
 		<SimpleData name="polygon_number">37</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">North Coast</SimpleData>
 		<SimpleData name="reference_region">Northwest Coastal</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -612,7 +612,7 @@
 		<SimpleData name="id">7B5C8CF6-F2F3-4E6B-98B1-F4BD86BA601F</SimpleData>
 		<SimpleData name="polygon_name">West Stikine</SimpleData>
 		<SimpleData name="polygon_number">38</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">North Coast</SimpleData>
 		<SimpleData name="reference_region">Northwest Coastal</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -628,7 +628,7 @@
 		<SimpleData name="id">E85A53CA-B3F2-45E4-86E5-A4BFEF637D83</SimpleData>
 		<SimpleData name="polygon_name">Babine</SimpleData>
 		<SimpleData name="polygon_number">39</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">North Coast</SimpleData>
 		<SimpleData name="reference_region">Northwest Inland</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -644,7 +644,7 @@
 		<SimpleData name="id">83D73727-AE1C-425A-8DFA-E2B9D6E9B96B</SimpleData>
 		<SimpleData name="polygon_name">East Stikine</SimpleData>
 		<SimpleData name="polygon_number">40</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">North Coast</SimpleData>
 		<SimpleData name="reference_region">Northwest Inland</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -660,7 +660,7 @@
 		<SimpleData name="id">DA801B1D-2423-4DF0-8B29-89927F5711EC</SimpleData>
 		<SimpleData name="polygon_name">Howson</SimpleData>
 		<SimpleData name="polygon_number">41</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">North Coast</SimpleData>
 		<SimpleData name="reference_region">Northwest Inland</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -676,7 +676,7 @@
 		<SimpleData name="id">D24B59C7-F7CF-4232-81BC-00965F5A3860</SimpleData>
 		<SimpleData name="polygon_name">Hudson Bay</SimpleData>
 		<SimpleData name="polygon_number">42</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">North Coast</SimpleData>
 		<SimpleData name="reference_region">Northwest Inland</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -692,7 +692,7 @@
 		<SimpleData name="id">9BE345FD-FDE7-4F1E-B6DB-F8359E8F09EF</SimpleData>
 		<SimpleData name="polygon_name">Kispiox</SimpleData>
 		<SimpleData name="polygon_number">43</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">North Coast</SimpleData>
 		<SimpleData name="reference_region">Northwest Inland</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -708,7 +708,7 @@
 		<SimpleData name="id">7E88CBC2-D0DD-4E3B-9FB3-FA5CE953E25E</SimpleData>
 		<SimpleData name="polygon_name">Microwave-Sinclair</SimpleData>
 		<SimpleData name="polygon_number">44</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">North Coast</SimpleData>
 		<SimpleData name="reference_region">Northwest Inland</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -724,7 +724,7 @@
 		<SimpleData name="id">2823816A-9D1A-4A03-87F1-644F93CB4F6E</SimpleData>
 		<SimpleData name="polygon_name">Telkwa</SimpleData>
 		<SimpleData name="polygon_number">45</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">North Coast</SimpleData>
 		<SimpleData name="reference_region">Northwest Inland</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -740,7 +740,7 @@
 		<SimpleData name="id">636EAB5F-E750-4689-BD67-A5DD810E555E</SimpleData>
 		<SimpleData name="polygon_name">Dogtooth</SimpleData>
 		<SimpleData name="polygon_number">46</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Purcells</SimpleData>
 		<SimpleData name="reference_region">Purcells</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -756,7 +756,7 @@
 		<SimpleData name="id">CF5DA199-1879-421E-AE65-CAAEDEE25901</SimpleData>
 		<SimpleData name="polygon_name">East Purcell</SimpleData>
 		<SimpleData name="polygon_number">47</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Purcells</SimpleData>
 		<SimpleData name="reference_region">Purcells</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -772,7 +772,7 @@
 		<SimpleData name="id">E7B22758-2ABE-4B50-BC17-AC4854146BA1</SimpleData>
 		<SimpleData name="polygon_name">Moyie</SimpleData>
 		<SimpleData name="polygon_number">48</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Purcells</SimpleData>
 		<SimpleData name="reference_region">Purcells</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -788,7 +788,7 @@
 		<SimpleData name="id">F6F82344-86F2-44CD-83EA-FD50EBF8B604</SimpleData>
 		<SimpleData name="polygon_name">St. Mary</SimpleData>
 		<SimpleData name="polygon_number">49</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Purcells</SimpleData>
 		<SimpleData name="reference_region">Purcells</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -804,7 +804,7 @@
 		<SimpleData name="id">83CD88F9-FF4F-4DFB-9B7E-F11B98393894</SimpleData>
 		<SimpleData name="polygon_name">West Purcell</SimpleData>
 		<SimpleData name="polygon_number">50</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Purcells</SimpleData>
 		<SimpleData name="reference_region">Purcells</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -820,7 +820,7 @@
 		<SimpleData name="id">E2F99BFF-F20C-4A6E-A06A-5BA38392C812</SimpleData>
 		<SimpleData name="polygon_name">Brandywine</SimpleData>
 		<SimpleData name="polygon_number">51</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">South Coast</SimpleData>
 		<SimpleData name="reference_region">Sea To Sky</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -836,7 +836,7 @@
 		<SimpleData name="id">5B051A11-2EC6-4457-BA62-B41D9FFC6675</SimpleData>
 		<SimpleData name="polygon_name">Garibaldi</SimpleData>
 		<SimpleData name="polygon_number">52</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">South Coast</SimpleData>
 		<SimpleData name="reference_region">Sea To Sky</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -852,7 +852,7 @@
 		<SimpleData name="id">569ED16F-1DAA-4E84-A95E-8FD61E7C2A2E</SimpleData>
 		<SimpleData name="polygon_name">Homathko</SimpleData>
 		<SimpleData name="polygon_number">53</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">South Coast</SimpleData>
 		<SimpleData name="reference_region">Sea To Sky</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -868,7 +868,7 @@
 		<SimpleData name="id">8347A1DC-F5E9-43F9-9E70-298D4EE3A341</SimpleData>
 		<SimpleData name="polygon_name">Powell River</SimpleData>
 		<SimpleData name="polygon_number">54</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">South Coast</SimpleData>
 		<SimpleData name="reference_region">Sea To Sky</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -884,7 +884,7 @@
 		<SimpleData name="id">B3E7B2CA-1476-4879-8973-65F0412C2FE1</SimpleData>
 		<SimpleData name="polygon_name">Spearhead</SimpleData>
 		<SimpleData name="polygon_number">55</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">South Coast</SimpleData>
 		<SimpleData name="reference_region">Sea To Sky</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -900,7 +900,7 @@
 		<SimpleData name="id">7B0429C3-B7D6-4902-96AB-F3280255DED7</SimpleData>
 		<SimpleData name="polygon_name">Stave</SimpleData>
 		<SimpleData name="polygon_number">56</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">South Coast</SimpleData>
 		<SimpleData name="reference_region">Sea To Sky</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -916,7 +916,7 @@
 		<SimpleData name="id">12D0F0DC-F27E-45B4-8B2A-864499BA111F</SimpleData>
 		<SimpleData name="polygon_name">Tantalus</SimpleData>
 		<SimpleData name="polygon_number">57</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">South Coast</SimpleData>
 		<SimpleData name="reference_region">Sea To Sky</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -932,7 +932,7 @@
 		<SimpleData name="id">31784FF8-4F6A-4E72-B9C4-7316A83470ED</SimpleData>
 		<SimpleData name="polygon_name">North Shore</SimpleData>
 		<SimpleData name="polygon_number">58</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">South Coast</SimpleData>
 		<SimpleData name="reference_region">South Coast</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -948,7 +948,7 @@
 		<SimpleData name="id">F69123DB-B767-4ECD-BBB8-82D84BFA827E</SimpleData>
 		<SimpleData name="polygon_name">Sasquatch</SimpleData>
 		<SimpleData name="polygon_number">59</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">South Coast</SimpleData>
 		<SimpleData name="reference_region">South Coast</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -964,7 +964,7 @@
 		<SimpleData name="id">78A0CEAD-3C95-4DDF-A582-FE32029E81DC</SimpleData>
 		<SimpleData name="polygon_name">Sky Pilot</SimpleData>
 		<SimpleData name="polygon_number">60</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">South Coast</SimpleData>
 		<SimpleData name="reference_region">South Coast</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -980,7 +980,7 @@
 		<SimpleData name="id">60D92BAD-5DCA-4B5C-A54D-E248C87743A5</SimpleData>
 		<SimpleData name="polygon_name">Tetrahedron</SimpleData>
 		<SimpleData name="polygon_number">61</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">South Coast</SimpleData>
 		<SimpleData name="reference_region">South Coast</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -996,7 +996,7 @@
 		<SimpleData name="id">B756CBC5-91CF-465F-ACEF-A7BAF33CE9F4</SimpleData>
 		<SimpleData name="polygon_name">Birkenhead</SimpleData>
 		<SimpleData name="polygon_number">62</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">South Coast</SimpleData>
 		<SimpleData name="reference_region">South Coast Inland</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1012,7 +1012,7 @@
 		<SimpleData name="id">67D20657-BB7F-4EC6-B32F-78C030CE00BC</SimpleData>
 		<SimpleData name="polygon_name">Coquihalla</SimpleData>
 		<SimpleData name="polygon_number">63</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">South Coast</SimpleData>
 		<SimpleData name="reference_region">South Coast Inland</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1028,7 +1028,7 @@
 		<SimpleData name="id">9B76C9B8-BB8D-4585-A197-429239D922B3</SimpleData>
 		<SimpleData name="polygon_name">Duffey</SimpleData>
 		<SimpleData name="polygon_number">64</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">South Coast</SimpleData>
 		<SimpleData name="reference_region">South Coast Inland</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1044,7 +1044,7 @@
 		<SimpleData name="id">3B2E64A0-1153-4611-BAC0-7A6564BF6405</SimpleData>
 		<SimpleData name="polygon_name">Harrison-Fraser</SimpleData>
 		<SimpleData name="polygon_number">65</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">South Coast</SimpleData>
 		<SimpleData name="reference_region">South Coast Inland</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1060,7 +1060,7 @@
 		<SimpleData name="id">21A45ACD-AFE1-45A1-9A04-59F350B27788</SimpleData>
 		<SimpleData name="polygon_name">Manning</SimpleData>
 		<SimpleData name="polygon_number">66</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">South Coast</SimpleData>
 		<SimpleData name="reference_region">South Coast Inland</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1076,7 +1076,7 @@
 		<SimpleData name="id">46A0B1AB-44F8-4D24-AC73-3F675A478ED9</SimpleData>
 		<SimpleData name="polygon_name">Skagit</SimpleData>
 		<SimpleData name="polygon_number">67</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">South Coast</SimpleData>
 		<SimpleData name="reference_region">South Coast Inland</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1092,7 +1092,7 @@
 		<SimpleData name="id">58C4F467-AF1A-4864-A1A3-B5872FAC4360</SimpleData>
 		<SimpleData name="polygon_name">South Chilcotin</SimpleData>
 		<SimpleData name="polygon_number">68</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">South Coast</SimpleData>
 		<SimpleData name="reference_region">South Coast Inland</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1108,7 +1108,7 @@
 		<SimpleData name="id">520D6595-677A-4096-A9C4-2C05F3E4AD82</SimpleData>
 		<SimpleData name="polygon_name">Stein</SimpleData>
 		<SimpleData name="polygon_number">69</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">South Coast</SimpleData>
 		<SimpleData name="reference_region">South Coast Inland</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1124,7 +1124,7 @@
 		<SimpleData name="id">924CE588-000F-487F-95E6-CD6E34D49A00</SimpleData>
 		<SimpleData name="polygon_name">Taseko</SimpleData>
 		<SimpleData name="polygon_number">70</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">South Coast</SimpleData>
 		<SimpleData name="reference_region">South Coast Inland</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1140,7 +1140,7 @@
 		<SimpleData name="id">1C363D55-2C35-4722-8D2C-081442F2C972</SimpleData>
 		<SimpleData name="polygon_name">Badshot-Battle</SimpleData>
 		<SimpleData name="polygon_number">71</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Selkirks</SimpleData>
 		<SimpleData name="reference_region">South Columbia</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1156,7 +1156,7 @@
 		<SimpleData name="id">41683C88-64A7-42CE-A505-204F8C6D0DEF</SimpleData>
 		<SimpleData name="polygon_name">Central Selkirk</SimpleData>
 		<SimpleData name="polygon_number">72</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Selkirks</SimpleData>
 		<SimpleData name="reference_region">South Columbia</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1172,7 +1172,7 @@
 		<SimpleData name="id">5712A317-AF4C-4230-89EF-6AC649858CF0</SimpleData>
 		<SimpleData name="polygon_name">Goat</SimpleData>
 		<SimpleData name="polygon_number">73</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Selkirks</SimpleData>
 		<SimpleData name="reference_region">South Columbia</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1188,7 +1188,7 @@
 		<SimpleData name="id">044068A8-D40F-441C-9702-D192BF9D0DA8</SimpleData>
 		<SimpleData name="polygon_name">Gold</SimpleData>
 		<SimpleData name="polygon_number">74</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Monashees</SimpleData>
 		<SimpleData name="reference_region">South Columbia</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1204,7 +1204,7 @@
 		<SimpleData name="id">F7A06706-68B7-45AA-BDC1-E4679AB0D603</SimpleData>
 		<SimpleData name="polygon_name">Kokanee</SimpleData>
 		<SimpleData name="polygon_number">75</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Selkirks</SimpleData>
 		<SimpleData name="reference_region">South Columbia</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1220,12 +1220,12 @@
 		<SimpleData name="id">25870AC5-CAEA-41B6-B2E4-627EE7916B31</SimpleData>
 		<SimpleData name="polygon_name">North Okanagan</SimpleData>
 		<SimpleData name="polygon_number">76</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Monashees</SimpleData>
 		<SimpleData name="reference_region">South Columbia</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
 		<SimpleData name="last_updated"></SimpleData>
-		<SimpleData name="centroid">(2:-119.08572491,50.5905803)</SimpleData>
+		<SimpleData name="centroid">(2:-119.08572736,50.59057479)</SimpleData>
 	</SchemaData></ExtendedData>
       <Polygon><outerBoundaryIs><LinearRing><coordinates>-118.513262151607,50.3864355327033 -118.51246376834,50.4351369119572 -118.40633075396,50.5524661221298 -118.434718794947,50.5760383347349 -118.492508735527,50.5849729637061 -118.565506555207,50.6166560451645 -118.641039021404,50.6176699037712 -118.680832971715,50.6260342372762 -118.655761027493,50.7024077406283 -118.588952035486,50.7316656308583 -118.564999625904,50.8007347484375 -118.563478837994,50.8570039011076 -118.506195826717,50.872306829452 -118.477744419567,50.9086156408032 -118.476104,50.927291 -118.484372,50.936591 -118.480434,50.94477 -118.510678,50.970338 -118.529749,50.977789 -118.544032,50.97483 -118.544195,50.974796 -118.561229,50.974215 -118.570425,50.970189 -118.610511,50.97662 -118.616152,50.982237 -118.616174,50.982259 -118.658711,51.002387 -118.679775,51.002016 -118.720213,50.982149 -118.734875,50.964575 -118.777123,50.945352 -118.825957,50.89517 -118.911022,50.881698 -118.969808,50.837373 -118.983309,50.839257 -119.016377280416,50.8323837173036 -119.050298914546,50.8165962900985 -119.078297,50.793656 -119.120975,50.79243 -119.166465,50.782851 -119.227401,50.745812 -119.227449,50.745783 -119.226563701091,50.7106209002555 -119.305035,50.694513 -119.329287,50.695985 -119.316398,50.732674 -119.33564620362,50.771161 -119.32152,50.829894 -119.396012,50.879128 -119.523653,50.892076 -119.524356,50.892054 -119.647864,50.831247 -119.668267,50.82747 -119.702621,50.801968 -119.72515,50.771113 -119.831199,50.676947 -119.911626,50.646819 -119.948244272305,50.6488068800853 -119.950925,50.637128 -119.918601,50.625183 -119.891311,50.607473 -119.883561,50.557975 -119.835369,50.527432 -119.832387,50.488443 -119.783328,50.474158 -119.736241,50.462638 -119.672639,50.46335 -119.572462,50.498268 -119.548266,50.497652 -119.507931,50.461387 -119.484374,50.451981 -119.453429,50.448957 -119.426654,50.460807 -119.373397,50.458574 -119.355889,50.430266 -119.322586,50.409509 -119.291645,50.360323 -119.259665,50.341105 -119.243187,50.339723 -119.240877,50.331527 -119.251291,50.303461 -119.259951,50.29055 -119.271022,50.288972 -119.277482,50.281633 -119.273451,50.276419 -119.273766,50.261095 -119.262327,50.253744 -119.181535,50.220378 -119.135153,50.224297 -119.078205,50.242098 -119.017994,50.23426 -118.981943,50.236421 -118.973281,50.244212 -118.973076,50.244248 -118.929774,50.252844 -118.929734,50.252854 -118.851838,50.251962 -118.816867,50.260798 -118.79857,50.273443 -118.771825,50.268075 -118.761993,50.258889 -118.66792,50.243103 -118.667785,50.243085 -118.629294,50.246378 -118.513262151607,50.3864355327033</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
@@ -1236,7 +1236,7 @@
 		<SimpleData name="id">38D8FD51-CD09-4968-81A8-C42CA2E44B4F</SimpleData>
 		<SimpleData name="polygon_name">Retallack</SimpleData>
 		<SimpleData name="polygon_number">77</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Selkirks</SimpleData>
 		<SimpleData name="reference_region">South Columbia</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1252,7 +1252,7 @@
 		<SimpleData name="id">860485DB-E3A0-422B-8936-49789BBE4AEA</SimpleData>
 		<SimpleData name="polygon_name">Valhalla</SimpleData>
 		<SimpleData name="polygon_number">78</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Selkirks</SimpleData>
 		<SimpleData name="reference_region">South Columbia</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1268,7 +1268,7 @@
 		<SimpleData name="id">AB7CAA96-0911-4D70-816D-A99921F302D1</SimpleData>
 		<SimpleData name="polygon_name">Whatshan</SimpleData>
 		<SimpleData name="polygon_number">79</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Monashees</SimpleData>
 		<SimpleData name="reference_region">South Columbia</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1284,7 +1284,7 @@
 		<SimpleData name="id">FD5F6977-7653-4D89-9448-E0B7B924EF3F</SimpleData>
 		<SimpleData name="polygon_name">Bull</SimpleData>
 		<SimpleData name="polygon_number">80</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">South Rockies</SimpleData>
 		<SimpleData name="reference_region">South Rockies</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1300,7 +1300,7 @@
 		<SimpleData name="id">2BF13DFD-8F2F-4B9E-9E53-7F83229FF1FE</SimpleData>
 		<SimpleData name="polygon_name">Crowsnest North</SimpleData>
 		<SimpleData name="polygon_number">81</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">South Rockies</SimpleData>
 		<SimpleData name="reference_region">South Rockies</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1316,7 +1316,7 @@
 		<SimpleData name="id">D61A5A6D-0BAD-45E8-85F5-6A94BF0CB321</SimpleData>
 		<SimpleData name="polygon_name">Crowsnest South</SimpleData>
 		<SimpleData name="polygon_number">82</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">South Rockies</SimpleData>
 		<SimpleData name="reference_region">South Rockies</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1332,7 +1332,7 @@
 		<SimpleData name="id">336B2677-00CE-4363-98FD-3D363D994879</SimpleData>
 		<SimpleData name="polygon_name">Elkford East</SimpleData>
 		<SimpleData name="polygon_number">83</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">South Rockies</SimpleData>
 		<SimpleData name="reference_region">South Rockies</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1348,7 +1348,7 @@
 		<SimpleData name="id">0283AD29-AD29-4E13-9922-F136B6255B3B</SimpleData>
 		<SimpleData name="polygon_name">Elkford West</SimpleData>
 		<SimpleData name="polygon_number">84</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">South Rockies</SimpleData>
 		<SimpleData name="reference_region">South Rockies</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1364,7 +1364,7 @@
 		<SimpleData name="id">4408DC28-6495-4985-9ABD-F8BFEB497BE9</SimpleData>
 		<SimpleData name="polygon_name">East Island</SimpleData>
 		<SimpleData name="polygon_number">85</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">South Coast</SimpleData>
 		<SimpleData name="reference_region">Vancouver Island</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1380,7 +1380,7 @@
 		<SimpleData name="id">F9CD9A3D-7BB9-4B5F-8FCB-23C8CD23F591</SimpleData>
 		<SimpleData name="polygon_name">North Island</SimpleData>
 		<SimpleData name="polygon_number">86</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">South Coast</SimpleData>
 		<SimpleData name="reference_region">Vancouver Island</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1396,7 +1396,7 @@
 		<SimpleData name="id">473E009D-CF9F-4460-9F44-283EA511EACF</SimpleData>
 		<SimpleData name="polygon_name">South Island</SimpleData>
 		<SimpleData name="polygon_number">87</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">South Coast</SimpleData>
 		<SimpleData name="reference_region">Vancouver Island</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1412,7 +1412,7 @@
 		<SimpleData name="id">4AFD92BD-22A6-4EFC-8ADB-55F0D103257D</SimpleData>
 		<SimpleData name="polygon_name">West Island</SimpleData>
 		<SimpleData name="polygon_number">88</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">South Coast</SimpleData>
 		<SimpleData name="reference_region">Vancouver Island</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1428,7 +1428,7 @@
 		<SimpleData name="id">5941E996-D0DE-4A7C-9CDC-8D42C16DE59E</SimpleData>
 		<SimpleData name="polygon_name">Tutshi</SimpleData>
 		<SimpleData name="polygon_number">89</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">North Coast</SimpleData>
 		<SimpleData name="reference_region">Yukon</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1444,7 +1444,7 @@
 		<SimpleData name="id">2D7F546D-62EE-41AE-A8C7-431AEF166F4F</SimpleData>
 		<SimpleData name="polygon_name">Wheaton</SimpleData>
 		<SimpleData name="polygon_number">90</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">North Coast</SimpleData>
 		<SimpleData name="reference_region">Yukon</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1460,7 +1460,7 @@
 		<SimpleData name="id">F33BC258-1A3E-48FB-B8E6-6A3481559B66</SimpleData>
 		<SimpleData name="polygon_name">White Pass East</SimpleData>
 		<SimpleData name="polygon_number">91</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">North Coast</SimpleData>
 		<SimpleData name="reference_region">Yukon</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1476,7 +1476,7 @@
 		<SimpleData name="id">06F81A0B-E683-45A8-80E3-A2D9C57653A9</SimpleData>
 		<SimpleData name="polygon_name">White Pass West</SimpleData>
 		<SimpleData name="polygon_number">92</SimpleData>
-		<SimpleData name="mountain_range">Coast</SimpleData>
+		<SimpleData name="mountain_range">North Coast</SimpleData>
 		<SimpleData name="reference_region">Yukon</SimpleData>
 		<SimpleData name="agency_name">avalanche_canada</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1508,7 +1508,7 @@
 		<SimpleData name="id">57F3AA3D-7378-46BF-B99B-ABECA685A86B</SimpleData>
 		<SimpleData name="polygon_name">Bow Valley</SimpleData>
 		<SimpleData name="polygon_number">94</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Kananaskis</SimpleData>
 		<SimpleData name="agency_name">kananaskis</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1524,7 +1524,7 @@
 		<SimpleData name="id">5C43B2A8-1982-4232-B411-DD3E9E2751D9</SimpleData>
 		<SimpleData name="polygon_name">Highwood Pass</SimpleData>
 		<SimpleData name="polygon_number">95</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Kananaskis</SimpleData>
 		<SimpleData name="agency_name">kananaskis</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1540,7 +1540,7 @@
 		<SimpleData name="id">79278179-D71A-457E-97A8-DB7CC7248FB0</SimpleData>
 		<SimpleData name="polygon_name">North 40</SimpleData>
 		<SimpleData name="polygon_number">96</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Kananaskis</SimpleData>
 		<SimpleData name="agency_name">kananaskis</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1556,7 +1556,7 @@
 		<SimpleData name="id">82871C6D-80D1-4C58-81D8-9A55B07DDCC4</SimpleData>
 		<SimpleData name="polygon_name">Spray - KLakes</SimpleData>
 		<SimpleData name="polygon_number">97</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Kananaskis</SimpleData>
 		<SimpleData name="agency_name">kananaskis</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1572,7 +1572,7 @@
 		<SimpleData name="id">543685F5-934A-40AD-9ED6-203711CF2323</SimpleData>
 		<SimpleData name="polygon_name">Bighorn</SimpleData>
 		<SimpleData name="polygon_number">98</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="agency_name">kananaskis</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
 		<SimpleData name="last_updated"></SimpleData>
@@ -1587,7 +1587,7 @@
 		<SimpleData name="id">DAC21D4B-018C-46B0-89D6-C7F276113B34</SimpleData>
 		<SimpleData name="polygon_name">Ghost</SimpleData>
 		<SimpleData name="polygon_number">99</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="agency_name">kananaskis</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
 		<SimpleData name="last_updated"></SimpleData>
@@ -1602,7 +1602,7 @@
 		<SimpleData name="id">1A35A20C-BFC0-4294-9B84-6442ADBE512B</SimpleData>
 		<SimpleData name="polygon_name">Banff</SimpleData>
 		<SimpleData name="polygon_number">100</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Banff Yoho Kootenay</SimpleData>
 		<SimpleData name="agency_name">parks_canada_byk</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1618,7 +1618,7 @@
 		<SimpleData name="id">7D6DC1A4-88CD-4C32-AA8A-EA036BB9CFBD</SimpleData>
 		<SimpleData name="polygon_name">East Side 93N</SimpleData>
 		<SimpleData name="polygon_number">101</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Banff Yoho Kootenay</SimpleData>
 		<SimpleData name="agency_name">parks_canada_byk</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1634,7 +1634,7 @@
 		<SimpleData name="id">56682A53-0A2D-412F-986C-9C1AC62FA26D</SimpleData>
 		<SimpleData name="polygon_name">Kootenay</SimpleData>
 		<SimpleData name="polygon_number">102</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Banff Yoho Kootenay</SimpleData>
 		<SimpleData name="agency_name">parks_canada_byk</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1650,7 +1650,7 @@
 		<SimpleData name="id">8C90DACE-FCE9-46D0-8F4C-9A75949E21E6</SimpleData>
 		<SimpleData name="polygon_name">Lake Louise</SimpleData>
 		<SimpleData name="polygon_number">103</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Banff Yoho Kootenay</SimpleData>
 		<SimpleData name="agency_name">parks_canada_byk</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1666,7 +1666,7 @@
 		<SimpleData name="id">80172295-4247-4487-B0CA-C343B10FD2DB</SimpleData>
 		<SimpleData name="polygon_name">LLSA</SimpleData>
 		<SimpleData name="polygon_number">104</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Banff Yoho Kootenay</SimpleData>
 		<SimpleData name="agency_name">parks_canada_byk</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1682,7 +1682,7 @@
 		<SimpleData name="id">ACCBA7D2-2877-401B-ABD1-35DA313C7EFA</SimpleData>
 		<SimpleData name="polygon_name">Sunshine</SimpleData>
 		<SimpleData name="polygon_number">105</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Banff Yoho Kootenay</SimpleData>
 		<SimpleData name="agency_name">parks_canada_byk</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1698,7 +1698,7 @@
 		<SimpleData name="id">3AE5E231-4248-4FE0-963A-F0C493990E41</SimpleData>
 		<SimpleData name="polygon_name">West Side 93N</SimpleData>
 		<SimpleData name="polygon_number">106</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Banff Yoho Kootenay</SimpleData>
 		<SimpleData name="agency_name">parks_canada_byk</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1714,7 +1714,7 @@
 		<SimpleData name="id">5D2FF3F4-0E6E-4AB8-9287-7BF0411C7218</SimpleData>
 		<SimpleData name="polygon_name">Field</SimpleData>
 		<SimpleData name="polygon_number">107</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Little Yoho</SimpleData>
 		<SimpleData name="agency_name">parks_canada_byk</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1730,7 +1730,7 @@
 		<SimpleData name="id">DA4C874B-8F7C-45A6-AEB1-1396B78FE2EC</SimpleData>
 		<SimpleData name="polygon_name">Little Yoho</SimpleData>
 		<SimpleData name="polygon_number">108</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Little Yoho</SimpleData>
 		<SimpleData name="agency_name">parks_canada_byk</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1746,7 +1746,7 @@
 		<SimpleData name="id">C0FF544D-036E-4891-AEB6-AAF381EA5D02</SimpleData>
 		<SimpleData name="polygon_name">Glacier</SimpleData>
 		<SimpleData name="polygon_number">109</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Selkirks</SimpleData>
 		<SimpleData name="reference_region">Glacier</SimpleData>
 		<SimpleData name="agency_name">parks_canada_glacier</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1762,7 +1762,7 @@
 		<SimpleData name="id">8D7ECE91-62FB-4455-B9E6-9F813C74E346</SimpleData>
 		<SimpleData name="polygon_name">Brazeau</SimpleData>
 		<SimpleData name="polygon_number">110</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Jasper</SimpleData>
 		<SimpleData name="agency_name">parks_canada_jasper</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1778,7 +1778,7 @@
 		<SimpleData name="id">F7005E34-004F-4818-A68E-AA866121E27D</SimpleData>
 		<SimpleData name="polygon_name">Churchill</SimpleData>
 		<SimpleData name="polygon_number">111</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Jasper</SimpleData>
 		<SimpleData name="agency_name">parks_canada_jasper</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1794,7 +1794,7 @@
 		<SimpleData name="id">2CB9FDD5-CF58-4F22-BD7C-11B8210DB3D3</SimpleData>
 		<SimpleData name="polygon_name">Cirrus-Wilson</SimpleData>
 		<SimpleData name="polygon_number">112</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Jasper</SimpleData>
 		<SimpleData name="agency_name">parks_canada_jasper</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1810,7 +1810,7 @@
 		<SimpleData name="id">F4399FD9-0DFC-4E0F-8C37-6C590FDA9873</SimpleData>
 		<SimpleData name="polygon_name">Fryatt</SimpleData>
 		<SimpleData name="polygon_number">113</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Jasper</SimpleData>
 		<SimpleData name="agency_name">parks_canada_jasper</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1826,7 +1826,7 @@
 		<SimpleData name="id">FE6B5DE8-5C0B-46AD-AFEB-640A5FC85FAF</SimpleData>
 		<SimpleData name="polygon_name">Icefields</SimpleData>
 		<SimpleData name="polygon_number">114</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Jasper</SimpleData>
 		<SimpleData name="agency_name">parks_canada_jasper</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1842,7 +1842,7 @@
 		<SimpleData name="id">A348DBC4-F2D7-45BE-A59E-8F8585F9F647</SimpleData>
 		<SimpleData name="polygon_name">Maligne</SimpleData>
 		<SimpleData name="polygon_number">115</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Jasper</SimpleData>
 		<SimpleData name="agency_name">parks_canada_jasper</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1858,7 +1858,7 @@
 		<SimpleData name="id">43172D1A-39AE-46BD-9189-1EA772887E51</SimpleData>
 		<SimpleData name="polygon_name">Marmot</SimpleData>
 		<SimpleData name="polygon_number">116</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Jasper</SimpleData>
 		<SimpleData name="agency_name">parks_canada_jasper</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1874,7 +1874,7 @@
 		<SimpleData name="id">F098C21A-368D-48FC-804C-9DE3AC49AF16</SimpleData>
 		<SimpleData name="polygon_name">Miette Lake</SimpleData>
 		<SimpleData name="polygon_number">117</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Jasper</SimpleData>
 		<SimpleData name="agency_name">parks_canada_jasper</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1890,7 +1890,7 @@
 		<SimpleData name="id">76F1935D-54A6-4A53-A690-A9DDE69FA067</SimpleData>
 		<SimpleData name="polygon_name">Pyramid</SimpleData>
 		<SimpleData name="polygon_number">118</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Jasper</SimpleData>
 		<SimpleData name="agency_name">parks_canada_jasper</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -1906,7 +1906,7 @@
 		<SimpleData name="id">22180593-AC92-4BCB-A6D4-15B32C35E859</SimpleData>
 		<SimpleData name="polygon_name">Waterton</SimpleData>
 		<SimpleData name="polygon_number">119</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">South Rockies</SimpleData>
 		<SimpleData name="reference_region">Waterton Lakes</SimpleData>
 		<SimpleData name="agency_name">parks_canada_waterton</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>

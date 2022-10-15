@@ -20,7 +20,7 @@
 		<SimpleData name="id">C0FF544D-036E-4891-AEB6-AAF381EA5D02</SimpleData>
 		<SimpleData name="polygon_name">Glacier</SimpleData>
 		<SimpleData name="polygon_number">109</SimpleData>
-		<SimpleData name="mountain_range">Columbias</SimpleData>
+		<SimpleData name="mountain_range">Selkirks</SimpleData>
 		<SimpleData name="reference_region">Glacier</SimpleData>
 		<SimpleData name="agency_name">parks_canada_glacier</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>

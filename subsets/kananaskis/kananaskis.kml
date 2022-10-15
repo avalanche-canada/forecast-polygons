@@ -20,7 +20,7 @@
 		<SimpleData name="id">57F3AA3D-7378-46BF-B99B-ABECA685A86B</SimpleData>
 		<SimpleData name="polygon_name">Bow Valley</SimpleData>
 		<SimpleData name="polygon_number">94</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Kananaskis</SimpleData>
 		<SimpleData name="agency_name">kananaskis</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -36,7 +36,7 @@
 		<SimpleData name="id">5C43B2A8-1982-4232-B411-DD3E9E2751D9</SimpleData>
 		<SimpleData name="polygon_name">Highwood Pass</SimpleData>
 		<SimpleData name="polygon_number">95</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Kananaskis</SimpleData>
 		<SimpleData name="agency_name">kananaskis</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -52,7 +52,7 @@
 		<SimpleData name="id">79278179-D71A-457E-97A8-DB7CC7248FB0</SimpleData>
 		<SimpleData name="polygon_name">North 40</SimpleData>
 		<SimpleData name="polygon_number">96</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Kananaskis</SimpleData>
 		<SimpleData name="agency_name">kananaskis</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -68,7 +68,7 @@
 		<SimpleData name="id">82871C6D-80D1-4C58-81D8-9A55B07DDCC4</SimpleData>
 		<SimpleData name="polygon_name">Spray - KLakes</SimpleData>
 		<SimpleData name="polygon_number">97</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="reference_region">Kananaskis</SimpleData>
 		<SimpleData name="agency_name">kananaskis</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
@@ -84,7 +84,7 @@
 		<SimpleData name="id">543685F5-934A-40AD-9ED6-203711CF2323</SimpleData>
 		<SimpleData name="polygon_name">Bighorn</SimpleData>
 		<SimpleData name="polygon_number">98</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="agency_name">kananaskis</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
 		<SimpleData name="last_updated"></SimpleData>
@@ -99,7 +99,7 @@
 		<SimpleData name="id">DAC21D4B-018C-46B0-89D6-C7F276113B34</SimpleData>
 		<SimpleData name="polygon_name">Ghost</SimpleData>
 		<SimpleData name="polygon_number">99</SimpleData>
-		<SimpleData name="mountain_range">Rockies</SimpleData>
+		<SimpleData name="mountain_range">Central Rockies</SimpleData>
 		<SimpleData name="agency_name">kananaskis</SimpleData>
 		<SimpleData name="creation_date">2022/08/10</SimpleData>
 		<SimpleData name="last_updated"></SimpleData>
