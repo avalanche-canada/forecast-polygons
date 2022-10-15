@@ -18,12 +18,12 @@ fx$id <- toupper(fx$id)
 fx$polygon_number <- 1:nrow(fx)
 
 ## mountain_range
-mountain_ranges <- readOGR(file.path(subregion_dir, 'edits/mountain_ranges.kml'))
+mountain_ranges <- readOGR(file.path(subregion_dir, 'editting_tools/mountain_ranges.kml'))
 fx$mountain_range <- over(gCentroid(fx, byid = T), mountain_ranges)$Name
 sort(table(fx$mountain_range))
 
 ## reference_region
-reference_regions <- readOGR(file.path(subregion_dir, 'edits/reference_regions.kml'))
+reference_regions <- readOGR(file.path(subregion_dir, 'editting_tools/reference_regions.kml'))
 fx$reference_region <- over(gCentroid(fx, byid = T), reference_regions)$Name
 ## check for subregions with centroids outside of reference regions then manually set
 message('Need to manually set reference regions for:')
@@ -44,7 +44,7 @@ fx$agency_name[fx$polygon_name %in% c('Bighorn', 'Ghost')] <- 'kananaskis'
 fx$agency_name[fx$reference_region == 'Chic-Chocs'] <- 'avalanche_quebec'
 sort(table(fx$agency_name))
 
-## centroids
+## centroids (to avoid errors with geojson_write need to run these 2 lines everytime)
 centroid <- gCentroid(fx, byid = T)
 fx$centroid <- paste0('[', centroid@coords[,1], ', ', centroid@coords[,2], ']')
 

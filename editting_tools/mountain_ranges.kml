@@ -14,7 +14,31 @@
 			<colorMode>random</colorMode>
 		</PolyStyle>
 	</Style>
+	<Style id="s_ylw-pushpin60">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+		</PolyStyle>
+	</Style>
 	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -29,53 +53,63 @@
 	<StyleMap id="m_ylw-pushpin">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin6</styleUrl>
+			<styleUrl>#s_ylw-pushpin60</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Folder>
 		<name>mountain_ranges</name>
 		<open>1</open>
 		<Placemark>
-			<name>Coast</name>
+			<name>North Coast</name>
 			<styleUrl>#m_ylw-pushpin</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
 					<LinearRing>
 						<coordinates>
-							-125.9371579749067,47.79856663339217,0 -125.6757300092925,44.22036956618398,0 -119.3978476366341,44.54412426811175,0 -119.2898791556728,48.3547460174837,0 -122.7399202545925,53.82572286103421,0 -126.4711299711641,58.26260133402538,0 -128.1229480077426,60.15169190807265,0 -130.8707494104182,60.97601886062657,0 -134.0324293925112,60.98118220529662,0 -140.7772731514461,62.57002445212621,0 -140.8637019743165,58.95918035085285,0 -125.9371579749067,47.79856663339217,0 
+							-129.9359783694312,52.84254381065153,0 -122.7399202545925,53.82572286103421,0 -128.8347750095814,61.04847171753386,0 -139.5909210400216,60.90892415497812,0 -129.9359783694312,52.84254381065153,0 
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Columbias</name>
+			<name>South Coast</name>
 			<styleUrl>#m_ylw-pushpin</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
 					<LinearRing>
 						<coordinates>
-							-119.4294280217968,48.86607317897629,0 -119.1719616129505,48.33540474705192,0 -119.0930308006654,45.1030918188528,0 -113.8680209016947,45.33461635662552,0 -114.1992514370725,48.21042187217148,0 -115.0594797661199,49.03039601138272,0 -115.6611742182158,49.6206448655393,0 -116.077445787541,50.7142124625454,0 -117.3083550434051,51.5551804255063,0 -119.4043082308702,52.96253460894966,0 -121.7036100964222,53.91396247718221,0 -122.5592776726992,53.81198958972131,0 -119.4294280217968,48.86607317897629,0 
+							-129.9100430365126,52.75275623134386,0 -126.4165070131807,48.39946772348765,0 -119.727520463378,48.97685394426302,0 -122.7541483043029,53.74512092413717,0 -129.9100430365126,52.75275623134386,0 
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Rockies</name>
+			<name>North Rockies</name>
 			<styleUrl>#m_ylw-pushpin</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
 					<LinearRing>
 						<coordinates>
-							-122.6340897135192,53.81764557152388,0 -121.7246848780667,53.92255590950575,0 -119.2797497724408,52.9571324706962,0 -116.0167858435028,50.70032925058004,0 -115.6816113620762,49.65129512885944,0 -115.0304296633543,48.9896129752718,0 -113.1672211036818,48.94319730454453,0 -122.5266499788158,59.99169102555951,0 -127.926927574154,60.13978433590335,0 -122.6340897135192,53.81764557152388,0 
+							-122.6340897135192,53.81764557152388,0 -121.7246848780667,53.92255590950575,0 -119.2797497724408,52.9571324706962,0 -118.3403366560274,53.74811895378429,0 -121.7465078725477,56.64981809238604,0 -124.6788971053074,56.5687551672462,0 -122.6340897135192,53.81764557152388,0 
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
@@ -83,13 +117,97 @@
 		</Placemark>
 		<Placemark>
 			<name>East Coast</name>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
 					<LinearRing>
 						<coordinates>
 							-53.75477882067585,46.49233196405132,0 -61.7525642461674,74.03606101934854,0 -89.3144816601213,73.18589599692582,0 -68.46342831197447,47.15729223411534,0 -53.75477882067585,46.49233196405132,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Central Rockies</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-115.7913954240015,50.50907980726551,0 -114.6973336228091,50.52287484823453,0 -114.6782087011693,51.33070479760554,0 -118.2604782373208,53.44746533324652,0 -119.1149553208314,52.83729766828358,0 -115.7913954240015,50.50907980726551,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>South Rockies</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-115.7632037839046,50.46290651526661,0 -115.7426135986229,49.64197018792756,0 -115.0359104636333,48.97015754506356,0 -113.4471007034791,48.93899429841248,0 -114.6547566759922,50.50572150922344,0 -115.7632037839046,50.46290651526661,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Cariboos</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-121.7255760313422,53.92116931159745,0 -122.5752031785064,53.76425220665782,0 -120.8449341286162,51.425649321047,0 -119.2894473158073,51.7346520650517,0 -119.135897655039,52.60331904277475,0 -119.2705768494834,52.90554745966633,0 -121.7255760313422,53.92116931159745,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Monashees</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-119.5873674490896,48.99649468842345,0 -117.6044236451203,48.99103947001247,0 -117.6441021719144,49.32592542192196,0 -118.0856146579395,49.45974546594513,0 -118.1071886185936,49.88298158009592,0 -117.8028896095473,50.16006458073314,0 -117.9474895166057,50.63210438679961,0 -118.6733446008776,51.79268994391962,0 -118.4448317541887,52.18956517515713,0 -118.8653352417993,52.62151543443332,0 -119.2508778010918,52.80822819700181,0 -119.151971798687,52.59824661536449,0 -119.2538163051799,51.71556115902795,0 -120.8143192758075,51.41320650700735,0 -119.5873674490896,48.99649468842345,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Selkirks</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-118.4318135407105,52.14771494894519,0 -118.6485938261549,51.77833471543698,0 -117.9145572218461,50.58135953573889,0 -117.7980588964571,50.14842644372975,0 -118.071046827427,49.86724864859342,0 -118.082030631914,49.4429388345157,0 -117.6698830615026,49.31369073608124,0 -117.6088212517022,48.94751382369544,0 -116.507964660215,48.98258942250274,0 -116.8418861625324,49.41429116003721,0 -116.9198723622799,50.4611766463142,0 -117.4467784415791,51.60843457532972,0 -118.4318135407105,52.14771494894519,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Purcells</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-115.6622410765837,49.58433896148467,0 -115.7619971374333,50.4780971633053,0 -117.471472657036,51.64660914393524,0 -116.9467985215561,50.44656260885573,0 -116.8368693550902,49.38832210766677,0 -116.4888081734886,48.94859959533371,0 -115.1059537104989,48.92322370308985,0 -115.6622410765837,49.58433896148467,0 
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
