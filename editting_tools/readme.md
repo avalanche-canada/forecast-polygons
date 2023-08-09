@@ -7,7 +7,7 @@
 	- Automatic tracing (for following other lines)
 	- Vertex tool (move, snap, add, and remove vertices)
 
-3. Load `canadian_subregions.geojson` in QGIS Editing mode and copy and paste new polygons. Update `polygon_name`, `creation_date`, and `last_updated` properties in the attribute table. Other attributes can be added automatically in step 5.
+3. Load `canadian_subregions.geojson` in QGIS Editing mode and copy and paste new polygons. Update `polygon_name`, `creation_date`, and `last_updated` properties in the attribute table. Other attributes can be added automatically in step 5. The Geometry Paster plugin can be used to copy and paste a new polygon without overwriting attributes.
 4. Validate and correct geometry with the QGIS [Topology Checker Plugin](https://docs.qgis.org/3.22/en/docs/user_manual/plugins/core_plugins/plugins_topology_checker.html). Helpful rules include:
 
 	- Must not have duplicates
@@ -17,21 +17,7 @@
 
 	Any errors can be corrected with Geometry Editting Tools.
 
-5. Run the `subregion_metadata.R` script to automatically fill other required properties.
-6. Run the following commands to correct the geometry and formatting. The [geojson-rewind](https://github.com/mapbox/geojson-rewind) program is used to enforce all polygons follow the right-hand rule (i.e., are drawn clockwise) while the other command places each feature on a new line.
-
-	```
-	## fix geometry with geojson-rewind
-	#npm install -g @mapbox/geojson-rewind
-	geojson-rewind canadian_subregions_unwound.geojson > canadian_subregions_fixed.geojson
-
-	## newline for each feature
-	sed -i 's/{"type":"Feature"/\'$'\n{"type":"Feature"/g' canadian_subregions_fixed.geojson
-
-	## replace master
-	mv canadian_subregions_fixed.geojson canadian_subregions.geojson
-	rm canadian_subregions_unwound.geojson
-	```
-
-7. Perform final validation test with [GeoJSONLint](https://geojsonlint.com/).
+5. Run the `subregion_metadata.R` script to automatically fill other required properties, centroids, and geometry corrections. This will write a file `canadian_subregions_updated.geojson`
+6. Perform final validation test with [GeoJSONLint](https://geojsonlint.com/).
+7. If content with updates then replace the official geojson file `mv canadian_subregions_updated.geojson canadian_subregions.geojson`.
 8. Run `conversions.sh` to produce copies with different formats and subsets.

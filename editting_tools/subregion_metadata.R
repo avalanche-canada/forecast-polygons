@@ -1,36 +1,65 @@
+## Set your working directory here
+setwd('H:/My Drive/snowmodels/dev/forecast-polygons')
+
 ## Imports
-library(sp)
-library(rgdal)
-library(rgeos)
-library(uuid)
-library(geojsonio)
+if(!require(sf)) {install.packages('sf'); library(sf)}
 
 ## Read geojson file
-subregion_dir <- 'H:/My Drive/snowmodels/dev/forecast-polygons/'
-fx <- geojson_read(file.path(subregion_dir, 'canadian_subregions.geojson'), parse = T, what = 'sp')
+fx <- read_sf('canadian_subregions.geojson')
+
+## validate geometry
+which_invalid <- which(!st_is_valid(fx))
+if (length(which_invalid) > 0) {
+  message(paste('Attempting to repair:', paste(fx$polygon_name[which_invalid], collapse = ', ')))
+  fx <- st_make_valid(fx)
+  which_invalid <- which(!st_is_valid(fx))
+  message(ifelse(length(which_invalid) < 1, 'Repaired all!',
+                 paste('Failed to repair:', paste(fx$polygon_name[which_invalid], collapse = ', '))))
+}
+
+## centroids (to avoid errors with geojson_write need to run these 2 lines everytime)
+centroids <- st_centroid(fx)
+centroids_text <- round(st_coordinates(centroids), 3)
+fx$centroid <- paste0('[', centroids_text[,1], ', ', centroids_text[,2], ']')
 
 ## id
-new_ids <- UUIDgenerate(n = sum(is.na(fx$id)))
-fx$id[is.na(fx$id)] <- new_ids
-fx$id <- toupper(fx$id)
+if (any(is.na(fx$id))) {
+  if(!require(uuid)) {install.packages('uuid'); library(uuid)}
+  new_ids <- UUIDgenerate(n = sum(is.na(fx$id)))
+  new_ids <- toupper(new_ids)
+  fx$id[is.na(fx$id)] <- new_ids
+  message(paste('Created', length(new_ids), 'new ids'))
+}
 
 ## polygon_number
-fx$polygon_number <- 1:nrow(fx)
+## Fill empty polygon numbers with any numbers missing in the sequence before increasing the number
+if (any(is.na(fx$polygon_number))) {
+  for (i in which(is.na(fx$polygon_number))) {
+    missing_numbers <- which(!(1:max(fx$polygon_number, na.rm = T) %in% fx$polygon_number))
+    fx$polygon_number[i] <- ifelse(length(missing_numbers) == 0,
+                                   max(fx$polygon_number, na.rm = T) + 1,
+                                   missing_numbers[1])
+  }
+  message(paste('Set', i, 'new polygon_numbers'))
+}
 
 ## mountain_range
-mountain_ranges <- readOGR(file.path(subregion_dir, 'editting_tools/mountain_ranges.kml'))
-fx$mountain_range <- over(gCentroid(fx, byid = T), mountain_ranges)$Name
+if (any(is.na(fx$mountain_range))) {
+  mountain_ranges <- read_sf('editting_tools/mountain_ranges.kml')
+  fx$mountain_range <- st_join(centroids, mountain_ranges)$Name
+}
 sort(table(fx$mountain_range))
 
 ## reference_region
-reference_regions <- readOGR(file.path(subregion_dir, 'editting_tools/reference_regions.kml'))
-fx$reference_region <- over(gCentroid(fx, byid = T), reference_regions)$Name
-## check for subregions with centroids outside of reference regions then manually set
-message('Need to manually set reference regions for:')
-print(as.character(fx$polygon_name[is.na(fx$reference_region)]))
-fx$reference_region[fx$polygon_name %in% c('LLSA', 'Banff')] <- 'Banff Yoho Kootenay'
-fx$reference_region[fx$polygon_name %in% c('Bow Valley')] <- 'Kananaskis'
-fx$reference_region[fx$polygon_name %in% c('Pyramid', 'Miette Lake')] <- 'Jasper'
+if (any(is.na(fx$reference_region))) {
+  reference_regions <- read_sf('editting_tools/reference_regions.geojson')
+  fx$reference_regions <- st_join(centroids, reference_regions)$Name
+  ## check for subregions with centroids outside of reference regions then manually set
+  message('Need to manually set reference regions for: ', paste(fx$polygon_name[is.na(fx$reference_region)], collapse = ', '))
+  fx$reference_region[fx$polygon_name %in% c('LLSA', 'Banff')] <- 'Banff Yoho Kootenay'
+  fx$reference_region[fx$polygon_name %in% c('Bow Valley')] <- 'Kananaskis'
+  fx$reference_region[fx$polygon_name %in% c('Pyramid', 'Miette Lake')] <- 'Jasper'
+}
 sort(table(fx$reference_region))
 
 ## agency_name
@@ -41,26 +70,15 @@ fx$agency_name[fx$reference_region == 'Jasper'] <- 'parks_canada_jasper'
 fx$agency_name[fx$reference_region %in% c('Banff Yoho Kootenay', 'Little Yoho')] <- 'parks_canada_byk'
 fx$agency_name[fx$reference_region == 'Kananaskis'] <- 'kananaskis'
 fx$agency_name[fx$polygon_name %in% c('Bighorn', 'Ghost')] <- 'kananaskis'
-fx$agency_name[fx$reference_region == 'Chic-Chocs'] <- 'avalanche_quebec'
+fx$agency_name[fx$reference_region %in% c('Chic-Chocs', 'Littoral', 'Murdochville')] <- 'avalanche_quebec'
 sort(table(fx$agency_name))
-
-## centroids (to avoid errors with geojson_write need to run these 2 lines everytime)
-centroid <- gCentroid(fx, byid = T)
-fx$centroid <- paste0('[', centroid@coords[,1], ', ', centroid@coords[,2], ']')
 
 ## Order rows and columns
 fx <- fx[order(fx$agency_name, fx$reference_region, fx$polygon_name),]
-fx$polygon_number <- 1:nrow(fx)
 fx <- fx[,c('id', 'polygon_name', 'polygon_number', 'mountain_range', 'reference_region', 'agency_name', 'creation_date', 'last_updated', 'centroid')]
 
 ## View results
 head(fx)
-View(fx@data)
 
 ## Save
-geojson_write(fx, file = file.path(subregion_dir, 'canadian_subregions_unwound.geojson'), layer = '')
-
-## Remember to perform command line corrections to the output of geojson_write
-# cd /mnt/h/My\ Drive/snowmodels/subregions
-# geojson-rewind canadian_subregions_unwound.geojson > canadian_subregions_fixed.geojson
-# sed -i 's/{"type":"Feature"/\'$'\n{"type":"Feature"/g' canadian_subregions_fixed.geojson
+st_write(fx, 'canadian_subregions_updated.geojson', driver = 'GeoJSON', layer = 'canadian_subregions', layer_options = 'RFC7946=YES', append = FALSE)
