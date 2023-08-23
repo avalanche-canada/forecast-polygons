@@ -17,7 +17,7 @@ if (length(which_invalid) > 0) {
                  paste('Failed to repair:', paste(fx$polygon_name[which_invalid], collapse = ', '))))
 }
 
-## centroids (to avoid errors with geojson_write need to run these 2 lines everytime)
+## centroids
 centroids <- st_centroid(fx)
 centroids_text <- round(st_coordinates(centroids), 3)
 fx$centroid <- paste0('[', centroids_text[,1], ', ', centroids_text[,2], ']')
